@@ -7,7 +7,7 @@ Currently, I am practicing writing codes with the use of Qulacs,
 
 and learning it by reading [Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/index.html).
 
-Some references that I am reading for learning quantum computing:
+Some other references that I am reading for learning quantum computing:
 
 [驚異の量子コンピュータ: 宇宙最強マシンへの挑戦](https://www.amazon.co.jp/gp/product/4000296892/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
