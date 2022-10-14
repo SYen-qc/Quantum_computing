@@ -1,5 +1,5 @@
 # Quantum_computing
-Here, I collect the codes that I wrote during my learning of quantum computing.
+Here, I collect some of the codes that I wrote during my learning of quantum computing.
 
 I mainly write the code with the use of Qulacs,
 
