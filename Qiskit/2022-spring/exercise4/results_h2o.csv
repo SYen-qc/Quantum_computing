@@ -1,0 +1,3 @@
+,Unnamed: 0,optimizer,mapping,ansatz,rotation blocks,entanglement_blocks,entanglement,repetitions,skip_final_rotation_layer,energy (Ha),error (mHa),# of parameters,final parameters,# of evaluations,# of qubits,# of CNOTs
+0,0.0,L_BFGS_B,JordanWignerMapper,UCCSD,,,,,,-1.697007028852724,1.7408297026122455e-10,3,[4.20789658e-07 3.20237670e-07 3.22967346e-02],28,4,56
+0,,L_BFGS_B,JordanWignerMapper,UCCSD,,,,,,-1.6970070288527694,1.34781075189494e-10,3,[2.18511227e-07 3.02266371e-07 3.22966459e-02],28,4,56
