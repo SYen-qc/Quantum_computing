@@ -19,6 +19,8 @@ Some other references which I am reading for learning quantum computing:
 
 [量子コンピュータによる量子化学計算入門](https://www.amazon.co.jp/gp/product/4065218276/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 
+[Quantum computational chemistry](https://arxiv.org/abs/1808.10402)
+
 [Quantum Computation and Quantum Information](https://www.amazon.co.jp/Quantum-Computation-Information-10th-Anniversary/dp/1107002176/ref=sr_1_28?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2ZYXFSQ4TUACO&keywords=quantum+computing&qid=1665747307&qu=eyJxc2MiOiI0LjY4IiwicXNhIjoiMy42MSIsInFzcCI6IjIuOTcifQ%3D%3D&sprefix=quantum+com%2Caps%2C1011&sr=8-28)
 
 [Introduction to Classical and Quantum Computing](https://www.amazon.co.jp/Introduction-Classical-Quantum-Computing-Thomas/dp/B09QP2ML3P/ref=sr_1_14?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2ZYXFSQ4TUACO&keywords=quantum+computing&qid=1665747307&qu=eyJxc2MiOiI0LjY4IiwicXNhIjoiMy42MSIsInFzcCI6IjIuOTcifQ%3D%3D&sprefix=quantum+com%2Caps%2C1011&sr=8-14)
