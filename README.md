@@ -9,6 +9,8 @@ and learning it by reading [Quantum Native Dojo](https://dojo.qulacs.org/ja/late
 
 Some other references which I am reading for learning quantum computing:
 
+[Efficient and noise resilient measurements for quantum chemistry on near-term quantum computers](https://www.nature.com/articles/s41534-020-00341-7)
+
 [驚異の量子コンピュータ: 宇宙最強マシンへの挑戦](https://www.amazon.co.jp/gp/product/4000296892/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
 
 [Noisy Intermediate-Scale Quantum デバイスを用いた物性シミュレーションの可能性](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/wp/wp-content/uploads/2022-101217.pdf)
