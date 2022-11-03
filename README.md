@@ -3,6 +3,8 @@ Here, I collect some of the codes that I write during my learning of quantum com
 
 Some references which I am reading for learning quantum computing:
 
+[Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/index.html)
+
 [Efficient and noise resilient measurements for quantum chemistry on near-term quantum computers](https://www.nature.com/articles/s41534-020-00341-7)
 
 [Quantum computational chemistry](https://arxiv.org/abs/1808.10402)
@@ -12,8 +14,6 @@ Some references which I am reading for learning quantum computing:
 [Introduction to Classical and Quantum Computing](https://www.amazon.co.jp/Introduction-Classical-Quantum-Computing-Thomas/dp/B09QP2ML3P/ref=sr_1_14?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2ZYXFSQ4TUACO&keywords=quantum+computing&qid=1665747307&qu=eyJxc2MiOiI0LjY4IiwicXNhIjoiMy42MSIsInFzcCI6IjIuOTcifQ%3D%3D&sprefix=quantum+com%2Caps%2C1011&sr=8-14)
 
 [Mathematics of Quantum Computing: An Introduction](https://www.amazon.co.jp/Mathematics-Quantum-Computing-Introduction-English-ebook/dp/B081GP6PGF/ref=sr_1_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&crid=2ZYXFSQ4TUACO&keywords=quantum+computing&qid=1665747307&qu=eyJxc2MiOiI0LjY4IiwicXNhIjoiMy42MSIsInFzcCI6IjIuOTcifQ%3D%3D&sprefix=quantum+com%2Caps%2C1011&sr=8-2)
-
-[Quantum Native Dojo](https://dojo.qulacs.org/ja/latest/index.html)
 
 [Noisy Intermediate-Scale Quantum デバイスを用いた物性シミュレーションの可能性](http://mercury.yukawa.kyoto-u.ac.jp/~bussei.kenkyu/wp/wp-content/uploads/2022-101217.pdf)
 
